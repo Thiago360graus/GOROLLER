@@ -17,8 +17,6 @@ panorama_C016FAA4_C9FA_65C9_41DC_DB6666C79AE0.label = 001
 panorama_C05402B7_C9FA_2537_41BF_E2BF4DB4526A.label = 006
 panorama_C0543446_C9FA_2D49_41BD_4612588F94FB.label = 003
 panorama_C05449F7_C9FA_2737_41DC_D72DE8958D84.label = 007
-panorama_C0545B75_C9FA_3B4B_41DC_2445C6BF6953.label = 004
-panorama_C056ED0F_C9FA_1CD7_41DC_BE5397D7E9E1.label = 002
 video_8BD40016_CA4A_24F6_41C6_71D88B981395.label = GOROLLER (6)
 video_8BD433A0_CA4A_2BC9_41D3_D780FCC27004.label = GOROLLER (7)
 video_8BD44C97_CA4A_1DF6_41D0_B24773ED6215.label = GOROLLER (5)
@@ -28,15 +26,6 @@ video_8BD5E741_CA4A_2B4A_41E7_DFFF2189E230.label = GOROLLER (8)
 video_8BD5EADE_CA4A_2576_41DF_4B43E2F76740.label = GOROLLER (9)
 video_8BE1611B_CA4A_64FF_41DA_8A4CF09FC6E8.label = GOROLLER (2)
 video_8EFB2BBE_CA4A_7B36_41AA_133679F2229C.label = GOROLLER (1)
-
-## Popup
-
-### Body
-htmlText_831D3700_CA3E_2CCA_41E0_69B0A61618BD.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_8DFD3FF4_C9CE_7B49_41E8_91721B5FDB6E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-
-### Title
-window_816AF35F_C9DE_2B76_41DE_E8D596109DA4.title = Patins Urbano HD Inline New Skull 2021 80mm Abec-9 Black
 
 ## Hotspot
 
